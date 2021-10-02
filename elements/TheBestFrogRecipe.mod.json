@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 10.0,
+    "cookingTime": 1000,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:BetterBetterFrog"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:TheBestFrog"
+    },
+    "name": "the_best_frog_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "badlands"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Frog"
+    },
+    "fluidBlock": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Frog"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 12,
+    "portalSound": {
+      "value": "ambient.cave"
+    },
+    "igniterName": "Frog",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "frog",
+    "portalTexture": "frog",
+    "enablePortal": true
+  }
+}

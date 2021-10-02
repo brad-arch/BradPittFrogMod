@@ -1,0 +1,65 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "frogarmour2",
+    "enableBody": true,
+    "textureBody": "frogchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "froglegging",
+    "enableBoots": true,
+    "textureBoots": "frogarmour4",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "frog_",
+    "helmetName": "Frog Armour Helmet",
+    "bodyName": "Frog Armour Body",
+    "leggingsName": "Frog Armour Leggings",
+    "bootsName": "Frog Armour Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 999,
+    "damageValueHelmet": 999,
+    "damageValueBody": 999,
+    "damageValueLeggings": 999,
+    "damageValueBoots": 999,
+    "enchantability": 80,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "ambient.basalt_deltas.loop"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:FrogDimension"
+      },
+      {
+        "value": "CUSTOM:Frog"
+      }
+    ]
+  }
+}

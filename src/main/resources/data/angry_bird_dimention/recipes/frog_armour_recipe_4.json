@@ -1,0 +1,26 @@
+{
+  "group": "angry_bird_dimention",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "angry_bird_dimention:better_frogs"
+    },
+    "2": {
+      "item": "angry_bird_dimention:better_frogs"
+    },
+    "3": {
+      "item": "angry_bird_dimention:better_frogs"
+    },
+    "5": {
+      "item": "angry_bird_dimention:better_frogs"
+    }
+  },
+  "result": {
+    "item": "angry_bird_dimention:frog_armour_boots",
+    "count": 1
+  }
+}

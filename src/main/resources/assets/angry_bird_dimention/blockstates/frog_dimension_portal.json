@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "angry_bird_dimention:block/frog_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "angry_bird_dimention:block/frog_dimension_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "frogdisk",
+    "name": "Frog Ribbet",
+    "description": "Ribbet",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:frogribbet"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

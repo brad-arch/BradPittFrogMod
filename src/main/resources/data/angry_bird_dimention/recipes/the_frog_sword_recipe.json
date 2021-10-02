@@ -1,0 +1,42 @@
+{
+  "group": "angry_bird_dimention",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "angry_bird_dimention:frog_armour_leggings"
+    },
+    "1": {
+      "item": "angry_bird_dimention:frog_armour_chestplate"
+    },
+    "2": {
+      "item": "angry_bird_dimention:frog_armour_helmet"
+    },
+    "3": {
+      "item": "angry_bird_dimention:the_best_frog"
+    },
+    "4": {
+      "item": "angry_bird_dimention:frog_apple"
+    },
+    "5": {
+      "item": "angry_bird_dimention:frog_armour_boots"
+    },
+    "6": {
+      "item": "angry_bird_dimention:the_best_frog"
+    },
+    "7": {
+      "item": "angry_bird_dimention:the_best_frog"
+    },
+    "8": {
+      "item": "angry_bird_dimention:the_best_frog"
+    }
+  },
+  "result": {
+    "item": "angry_bird_dimention:frog_sword",
+    "count": 1
+  }
+}

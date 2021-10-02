@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "angry_bird_dimention:blocks/frog",
+    "up": "angry_bird_dimention:blocks/frog",
+    "north": "angry_bird_dimention:blocks/frog",
+    "east": "angry_bird_dimention:blocks/frog",
+    "south": "angry_bird_dimention:blocks/frog",
+    "west": "angry_bird_dimention:blocks/frog",
+    "particle": "angry_bird_dimention:blocks/frog"
+  }
+}

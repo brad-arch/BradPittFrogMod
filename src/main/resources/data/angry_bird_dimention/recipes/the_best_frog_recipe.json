@@ -1,0 +1,12 @@
+{
+  "group": "angry_bird_dimention",
+  "type": "minecraft:smelting",
+  "experience": 10,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "angry_bird_dimention:better_better_frog"
+  },
+  "result": {
+    "item": "angry_bird_dimention:the_best_frog"
+  }
+}

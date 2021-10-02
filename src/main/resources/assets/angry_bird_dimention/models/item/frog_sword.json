@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "angry_bird_dimention:items/frogswordbetter"
+  }
+}

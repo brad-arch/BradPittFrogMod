@@ -1,0 +1,42 @@
+{
+  "group": "angry_bird_dimention",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "1": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "2": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "3": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "4": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "5": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "6": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "7": {
+      "item": "angry_bird_dimention:frog"
+    },
+    "8": {
+      "item": "angry_bird_dimention:frog"
+    }
+  },
+  "result": {
+    "item": "angry_bird_dimention:better_frogs",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "frogapple",
+    "customModelName": "Normal",
+    "name": "Frog Apple",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Golden apple but way better"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 999,
+    "saturation": 999.0,
+    "eatingSpeed": 50,
+    "resultItem": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": true
+  }
+}

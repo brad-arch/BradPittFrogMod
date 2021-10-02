@@ -1,0 +1,42 @@
+{
+  "group": "angry_bird_dimention",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald_block"
+    },
+    "1": {
+      "item": "minecraft:emerald_block"
+    },
+    "2": {
+      "item": "minecraft:emerald_block"
+    },
+    "3": {
+      "item": "minecraft:diamond_ore"
+    },
+    "4": {
+      "item": "minecraft:diamond_ore"
+    },
+    "5": {
+      "item": "minecraft:diamond_ore"
+    },
+    "6": {
+      "item": "minecraft:beacon"
+    },
+    "7": {
+      "item": "minecraft:dragon_wall_head"
+    },
+    "8": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "angry_bird_dimention:frog_apple",
+    "count": 1
+  }
+}

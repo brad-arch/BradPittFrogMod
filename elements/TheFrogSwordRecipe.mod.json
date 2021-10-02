@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FrogArmour.legs"
+      },
+      {
+        "value": "CUSTOM:FrogArmour.body"
+      },
+      {
+        "value": "CUSTOM:FrogArmour.helmet"
+      },
+      {
+        "value": "CUSTOM:TheBestFrog"
+      },
+      {
+        "value": "CUSTOM:FrogApple"
+      },
+      {
+        "value": "CUSTOM:FrogArmour.boots"
+      },
+      {
+        "value": "CUSTOM:TheBestFrog"
+      },
+      {
+        "value": "CUSTOM:TheBestFrog"
+      },
+      {
+        "value": "CUSTOM:TheBestFrog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FrogSword"
+    },
+    "name": "the_frog_sword_recipe",
+    "namespace": "mod"
+  }
+}

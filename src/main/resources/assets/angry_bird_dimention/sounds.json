@@ -1,0 +1,21 @@
+{
+  "ribvb": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:frog-ribbet4",
+        "stream": false
+      }
+    ]
+  },
+  "frogribbet": {
+    "category": "music",
+    "subtitle": "subtitles.frogribbet",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:frog-ribbet4",
+        "stream": true
+      }
+    ]
+  }
+}
