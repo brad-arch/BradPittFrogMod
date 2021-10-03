@@ -17,5 +17,33 @@
         "stream": true
       }
     ]
+  },
+  "shyfrog": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:jazz-frog-_but-it_s-a-full-song__",
+        "stream": false
+      }
+    ]
+  },
+  "shylittlefrog": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:jazz-frog-_but-it_s-a-full-song__",
+        "stream": false
+      }
+    ]
+  },
+  "shylittlefrogpleasework": {
+    "category": "neutral",
+    "subtitle": "subtitles.shylittlefrogpleasework",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:jazz-frog-_but-it_s-a-full-song__",
+        "stream": false
+      }
+    ]
   }
 }

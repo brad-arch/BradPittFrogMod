@@ -190,6 +190,30 @@
       ],
       "category": "music",
       "subtitle": "Ribbet Ribbet"
+    },
+    {
+      "name": "shyfrog",
+      "files": [
+        "jazz-frog-_but-it_s-a-full-song__"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "shylittlefrog",
+      "files": [
+        "jazz-frog-_but-it_s-a-full-song__"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shylittlefrogpleasework",
+      "files": [
+        "jazz-frog-_but-it_s-a-full-song__"
+      ],
+      "category": "neutral",
+      "subtitle": "shy little frooog"
     }
   ],
   "language_map": {
@@ -198,11 +222,14 @@
       "item.angry_bird_dimention.frog_apple": "Frog Apple",
       "subtitles.ribvb": "",
       "block.angry_bird_dimention.better_better_frog": "Better Better Frog",
+      "subtitles.shylittlefrogpleasework": "shy little frooog",
       "item.angry_bird_dimention.frog_sword": "Frog Sword",
       "block.angry_bird_dimention.frog": "Frog",
       "block.angry_bird_dimention.the_best_frog": "The Best Frog",
       "item.angry_bird_dimention.frog_armour_boots": "Frog Armour Boots",
+      "subtitles.shyfrog": "",
       "item.angry_bird_dimention.frog_armour_helmet": "Frog Armour Helmet",
+      "subtitles.shylittlefrog": "",
       "subtitles.frogribbet": "Ribbet Ribbet",
       "item.angry_bird_dimention.frog_dimension": "Frog",
       "item.angry_bird_dimention.frog_ribbet": "Frog Ribbet",
