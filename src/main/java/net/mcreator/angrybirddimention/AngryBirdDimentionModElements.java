@@ -45,16 +45,16 @@ public class AngryBirdDimentionModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public AngryBirdDimentionModElements() {
-		sounds.put(new ResourceLocation("angry_bird_dimention", "ribvb"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "ribvb")));
 		sounds.put(new ResourceLocation("angry_bird_dimention", "frogribbet"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "frogribbet")));
-		sounds.put(new ResourceLocation("angry_bird_dimention", "shyfrog"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "shyfrog")));
 		sounds.put(new ResourceLocation("angry_bird_dimention", "shylittlefrog"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "shylittlefrog")));
 		sounds.put(new ResourceLocation("angry_bird_dimention", "shylittlefrogpleasework"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "shylittlefrogpleasework")));
+		sounds.put(new ResourceLocation("angry_bird_dimention", "ribvb"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "ribvb")));
+		sounds.put(new ResourceLocation("angry_bird_dimention", "jazz_frog"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("angry_bird_dimention", "jazz_frog")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("angry_bird_dimention").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

@@ -1,13 +1,4 @@
 {
-  "ribvb": {
-    "category": "neutral",
-    "sounds": [
-      {
-        "name": "angry_bird_dimention:frog-ribbet4",
-        "stream": false
-      }
-    ]
-  },
   "frogribbet": {
     "category": "music",
     "subtitle": "subtitles.frogribbet",
@@ -15,15 +6,6 @@
       {
         "name": "angry_bird_dimention:frog-ribbet4",
         "stream": true
-      }
-    ]
-  },
-  "shyfrog": {
-    "category": "master",
-    "sounds": [
-      {
-        "name": "angry_bird_dimention:jazz-frog-_but-it_s-a-full-song__",
-        "stream": false
       }
     ]
   },
@@ -43,6 +25,24 @@
       {
         "name": "angry_bird_dimention:jazz-frog-_but-it_s-a-full-song__",
         "stream": false
+      }
+    ]
+  },
+  "ribvb": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:frog-ribbet4",
+        "stream": false
+      }
+    ]
+  },
+  "jazz_frog": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "angry_bird_dimention:jazz-frog",
+        "stream": true
       }
     ]
   }
