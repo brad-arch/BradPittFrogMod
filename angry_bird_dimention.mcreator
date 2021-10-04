@@ -171,6 +171,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "frog_ribbet"
+    },
+    {
+      "name": "FrogEntity",
+      "type": "livingentity",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frog_entity"
     }
   ],
   "variable_elements": [],
@@ -218,8 +227,8 @@
   ],
   "language_map": {
     "en_us": {
-      "item.angry_bird_dimention.frog_armour_leggings": "Frog Armour Leggings",
       "subtitles.jazz_frog": "",
+      "item.angry_bird_dimention.frog_armour_leggings": "Frog Armour Leggings",
       "item.angry_bird_dimention.frog_apple": "Frog Apple",
       "subtitles.ribvb": "",
       "block.angry_bird_dimention.better_better_frog": "Better Better Frog",
@@ -234,9 +243,11 @@
       "subtitles.frogribbet": "Ribbet Ribbet",
       "item.angry_bird_dimention.frog_dimension": "Frog",
       "item.angry_bird_dimention.frog_ribbet": "Music Disc",
+      "entity.angry_bird_dimention.frog_entity": "Frog",
       "item.angry_bird_dimention.frog_armour_chestplate": "Frog Armour Body",
       "block.angry_bird_dimention.better_frogs": "Better Frogs",
-      "item.angry_bird_dimention.frog_ribbet.desc": "Pey The Musician - Jazz Frog"
+      "item.angry_bird_dimention.frog_ribbet.desc": "Pey The Musician - Jazz Frog",
+      "item.angry_bird_dimention.frog_entity_spawn_egg": "Frog Spawn Egg"
     }
   },
   "foldersRoot": {
