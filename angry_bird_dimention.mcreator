@@ -11,6 +11,18 @@
       "registry_name": "frog"
     },
     {
+      "name": "FrogDimension",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frog_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
       "name": "FrogArmour",
       "type": "armor",
       "sortid": 2,
@@ -161,16 +173,13 @@
       "registry_name": "frog_ribbet"
     },
     {
-      "name": "FrogDimension",
-      "type": "dimension",
-      "sortid": 1,
+      "name": "Frogart",
+      "type": "painting",
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_dimension",
-      "metadata": {
-        "ep": true
-      }
+      "registry_name": "frogart"
     },
     {
       "name": "FrogPickaxe",
@@ -182,13 +191,14 @@
       "registry_name": "frog_pickaxe"
     },
     {
-      "name": "Frogart",
-      "type": "painting",
-      "sortid": 19,
+      "name": "FrogEntity",
+      "type": "livingentity",
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frogart"
+      "registry_name": "frog_entity",
+      "path": "~/Entities"
     }
   ],
   "variable_elements": [],
@@ -210,14 +220,6 @@
       "subtitle": "Ribbet Ribbet"
     },
     {
-      "name": "shyfrog",
-      "files": [
-        "jazz-frog-_but-it_s-a-full-song__"
-      ],
-      "category": "master",
-      "subtitle": ""
-    },
-    {
       "name": "shylittlefrog",
       "files": [
         "jazz-frog-_but-it_s-a-full-song__"
@@ -232,11 +234,20 @@
       ],
       "category": "neutral",
       "subtitle": "shy little frooog"
+    },
+    {
+      "name": "jazz_frog",
+      "files": [
+        "jazz-frog"
+      ],
+      "category": "music",
+      "subtitle": ""
     }
   ],
   "language_map": {
     "en_us": {
       "item.angry_bird_dimention.frog_armour_leggings": "Frog Armour Leggings",
+      "subtitles.jazz_frog": "",
       "item.angry_bird_dimention.frog_apple": "Frog Apple",
       "subtitles.ribvb": "",
       "block.angry_bird_dimention.better_better_frog": "Better Better Frog",
@@ -249,17 +260,45 @@
       "item.angry_bird_dimention.frog_armour_helmet": "Frog Armour Helmet",
       "subtitles.shylittlefrog": "",
       "subtitles.frogribbet": "Ribbet Ribbet",
-      "item.angry_bird_dimention.frog_ribbet": "Frog Ribbet",
       "item.angry_bird_dimention.frog_dimension": "Frog",
+      "item.angry_bird_dimention.frog_ribbet": "Music Disc",
       "item.angry_bird_dimention.frog_armour_chestplate": "Frog Armour Body",
       "block.angry_bird_dimention.better_frogs": "Better Frogs",
-      "item.angry_bird_dimention.frog_ribbet.desc": "Ribbet",
-      "item.angry_bird_dimention.frog_pickaxe": "Frog Pickaxe"
+      "item.angry_bird_dimention.frog_ribbet.desc": "Pey The Musician - Jazz Frog"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Misc",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Entities",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Armour",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "angry_bird_dimention",

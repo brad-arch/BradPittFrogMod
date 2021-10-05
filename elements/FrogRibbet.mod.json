@@ -3,15 +3,15 @@
   "_type": "musicdisc",
   "definition": {
     "texture": "frogdisk",
-    "name": "Frog Ribbet",
-    "description": "Ribbet",
+    "name": "Music Disc",
+    "description": "Pey The Musician - Jazz Frog",
     "creativeTab": {
       "value": "MISC"
     },
     "music": {
-      "value": "CUSTOM:shylittlefrogpleasework"
+      "value": "CUSTOM:jazz_frog"
     },
     "specialInfo": [],
-    "hasGlow": true
+    "hasGlow": false
   }
 }

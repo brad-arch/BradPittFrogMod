@@ -1,28 +1,12 @@
 
 package net.mcreator.angrybirddimention.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.world.World;
-import net.minecraft.util.text.StringTextComponent;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.PickaxeItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-import net.minecraft.client.util.ITooltipFlag;
-
-import net.mcreator.angrybirddimention.block.BetterBetterFrogBlock;
-import net.mcreator.angrybirddimention.AngryBirdDimentionModElements;
-
-import java.util.List;
-
 @AngryBirdDimentionModElements.ModElement.Tag
 public class FrogPickaxeItem extends AngryBirdDimentionModElements.ModElement {
+
 	@ObjectHolder("angry_bird_dimention:frog_pickaxe")
 	public static final Item block = null;
+
 	public FrogPickaxeItem(AngryBirdDimentionModElements instance) {
 		super(instance, 18);
 	}
@@ -54,6 +38,7 @@ public class FrogPickaxeItem extends AngryBirdDimentionModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(BetterBetterFrogBlock.block));
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS).isImmuneToFire()) {
+
 			@Override
 			public boolean hasContainerItem() {
 				return true;
@@ -74,6 +59,8 @@ public class FrogPickaxeItem extends AngryBirdDimentionModElements.ModElement {
 				super.addInformation(itemstack, world, list, flag);
 				list.add(new StringTextComponent("Very Ribbet Like"));
 			}
+
 		}.setRegistryName("frog_pickaxe"));
 	}
+
 }
