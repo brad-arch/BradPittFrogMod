@@ -4,7 +4,7 @@
   "definition": {
     "biomesInDimension": [
       {
-        "value": "badlands"
+        "value": "swamp"
       }
     ],
     "worldGenType": "Normal world gen",
@@ -12,7 +12,7 @@
       "value": "CUSTOM:Frog"
     },
     "fluidBlock": {
-      "value": "Blocks.EMERALD_BLOCK"
+      "value": "Blocks.FLOWING_WATER"
     },
     "canRespawnHere": true,
     "hasFog": true,
@@ -25,9 +25,9 @@
       "value": "CUSTOM:Frog"
     },
     "portalParticles": {
-      "value": "EXPLOSION_NORMAL"
+      "value": "WATER_DROP"
     },
-    "portalLuminance": 12,
+    "portalLuminance": 15,
     "portalSound": {
       "value": "ambient.cave"
     },
@@ -35,8 +35,8 @@
     "igniterTab": {
       "value": "TOOLS"
     },
-    "texture": "frog",
-    "portalTexture": "frog",
+    "texture": "flint_and_steel",
+    "portalTexture": "nether_portal_-_copy",
     "enablePortal": true
   }
 }

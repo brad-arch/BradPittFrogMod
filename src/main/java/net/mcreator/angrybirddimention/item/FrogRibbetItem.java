@@ -28,7 +28,7 @@ public class FrogRibbetItem extends AngryBirdDimentionModElements.ModElement {
 	}
 	public static class MusicDiscItemCustom extends MusicDiscItem {
 		public MusicDiscItemCustom() {
-			super(0, AngryBirdDimentionModElements.sounds.get(new ResourceLocation("angry_bird_dimention:frogribbet")),
+			super(0, AngryBirdDimentionModElements.sounds.get(new ResourceLocation("angry_bird_dimention:shylittlefrogpleasework")),
 					new Item.Properties().group(ItemGroup.MISC).maxStackSize(1).rarity(Rarity.RARE));
 			setRegistryName("frog_ribbet");
 		}

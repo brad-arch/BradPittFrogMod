@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_pickaxe",
+    "customModelName": "Normal",
+    "name": "Frog Pickaxe",
+    "specialInfo": [
+      "Very Ribbet Like"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 30,
+    "efficiency": 100000.0,
+    "attackSpeed": 1.0,
+    "enchantability": 100000,
+    "damageVsEntity": 4.8999999999999995,
+    "usageCount": 100000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BetterBetterFrog"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

@@ -12,9 +12,10 @@
   "item.angry_bird_dimention.frog_armour_helmet": "Frog Armour Helmet",
   "subtitles.shylittlefrog": "",
   "subtitles.frogribbet": "Ribbet Ribbet",
-  "item.angry_bird_dimention.frog_dimension": "Frog",
   "item.angry_bird_dimention.frog_ribbet": "Frog Ribbet",
+  "item.angry_bird_dimention.frog_dimension": "Frog",
   "item.angry_bird_dimention.frog_armour_chestplate": "Frog Armour Body",
   "block.angry_bird_dimention.better_frogs": "Better Frogs",
-  "item.angry_bird_dimention.frog_ribbet.desc": "Ribbet"
+  "item.angry_bird_dimention.frog_ribbet.desc": "Ribbet",
+  "item.angry_bird_dimention.frog_pickaxe": "Frog Pickaxe"
 }

@@ -139,7 +139,7 @@ public class FrogDimensionDimension extends AngryBirdDimentionModElements.ModEle
 	public static class CustomPortalBlock extends NetherPortalBlock {
 		public CustomPortalBlock() {
 			super(Block.Properties.create(Material.PORTAL).doesNotBlockMovement().tickRandomly().hardnessAndResistance(-1.0F).sound(SoundType.GLASS)
-					.setLightLevel(s -> 12).noDrops());
+					.setLightLevel(s -> 15).noDrops());
 			setRegistryName("frog_dimension_portal");
 		}
 
@@ -193,7 +193,7 @@ public class FrogDimensionDimension extends AngryBirdDimentionModElements.ModEle
 					pz = pos.getZ() + 0.5 + 0.25 * j;
 					vz = random.nextFloat() * 2 * j;
 				}
-				world.addParticle(ParticleTypes.EXPLOSION, px, py, pz, vx, vy, vz);
+				world.addParticle(ParticleTypes.FALLING_WATER, px, py, pz, vx, vy, vz);
 			}
 			if (random.nextInt(110) == 0)
 				world.playSound(pos.getX() + 0.5, pos.getY() + 0.5, pos.getZ() + 0.5,

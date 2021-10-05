@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "angry_bird_dimention:blocks/frog",
-    "portal": "angry_bird_dimention:blocks/frog"
+    "particle": "angry_bird_dimention:blocks/nether_portal_-_copy",
+    "portal": "angry_bird_dimention:blocks/nether_portal_-_copy"
   },
   "elements": [
     {

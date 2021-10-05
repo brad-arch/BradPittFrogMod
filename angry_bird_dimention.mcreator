@@ -11,18 +11,6 @@
       "registry_name": "frog"
     },
     {
-      "name": "FrogDimension",
-      "type": "dimension",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "frog_dimension",
-      "metadata": {
-        "ep": true
-      }
-    },
-    {
       "name": "FrogArmour",
       "type": "armor",
       "sortid": 2,
@@ -171,6 +159,36 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "frog_ribbet"
+    },
+    {
+      "name": "FrogDimension",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frog_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "FrogPickaxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frog_pickaxe"
+    },
+    {
+      "name": "Frogart",
+      "type": "painting",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frogart"
     }
   ],
   "variable_elements": [],
@@ -231,11 +249,12 @@
       "item.angry_bird_dimention.frog_armour_helmet": "Frog Armour Helmet",
       "subtitles.shylittlefrog": "",
       "subtitles.frogribbet": "Ribbet Ribbet",
-      "item.angry_bird_dimention.frog_dimension": "Frog",
       "item.angry_bird_dimention.frog_ribbet": "Frog Ribbet",
+      "item.angry_bird_dimention.frog_dimension": "Frog",
       "item.angry_bird_dimention.frog_armour_chestplate": "Frog Armour Body",
       "block.angry_bird_dimention.better_frogs": "Better Frogs",
-      "item.angry_bird_dimention.frog_ribbet.desc": "Ribbet"
+      "item.angry_bird_dimention.frog_ribbet.desc": "Ribbet",
+      "item.angry_bird_dimention.frog_pickaxe": "Frog Pickaxe"
     }
   },
   "foldersRoot": {

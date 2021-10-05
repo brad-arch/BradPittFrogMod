@@ -3,17 +3,17 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "frogarmour2",
+    "textureHelmet": "frogarmour_head",
     "enableBody": true,
-    "textureBody": "frogchestplate",
+    "textureBody": "frogarmour_body",
     "enableLeggings": true,
-    "textureLeggings": "froglegging",
+    "textureLeggings": "frogarmour_leggings",
     "enableBoots": true,
-    "textureBoots": "frogarmour4",
+    "textureBoots": "frogarmour_boots",
     "creativeTab": {
       "value": "COMBAT"
     },
-    "armorTextureFile": "frog_",
+    "armorTextureFile": "frogarmour",
     "helmetName": "Frog Armour Helmet",
     "bodyName": "Frog Armour Body",
     "leggingsName": "Frog Armour Leggings",

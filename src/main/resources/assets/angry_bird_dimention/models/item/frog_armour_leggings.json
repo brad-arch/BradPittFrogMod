@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "angry_bird_dimention:items/froglegging"
+    "layer0": "angry_bird_dimention:items/frogarmour_leggings"
   }
 }

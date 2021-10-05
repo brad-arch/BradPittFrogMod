@@ -36,7 +36,7 @@
       },
       "biomes": [
         {
-          "biome": "badlands",
+          "biome": "swamp",
           "parameters": {
             "temperature": 0,
             "humidity": 0,
@@ -57,7 +57,10 @@
         "Name": "angry_bird_dimention:frog"
       },
       "default_fluid": {
-        "Name": "minecraft:emerald_block"
+        "Name": "minecraft:water",
+        "Properties": {
+          "level": "0"
+        }
       },
       "noise": {
         "min_y": 0,
