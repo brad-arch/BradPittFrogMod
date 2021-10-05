@@ -6,9 +6,10 @@
       "type": "block",
       "sortid": 1,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "ids": {},
-      "registry_name": "frog"
+      "registry_name": "frog",
+      "path": "~/Blocks"
     },
     {
       "name": "FrogDimension",
@@ -20,7 +21,8 @@
       "registry_name": "frog_dimension",
       "metadata": {
         "ep": true
-      }
+      },
+      "path": "~/Misc"
     },
     {
       "name": "FrogArmour",
@@ -35,7 +37,8 @@
         "el": true,
         "eb": true,
         "ec": true
-      }
+      },
+      "path": "~/Armour"
     },
     {
       "name": "FrogApple",
@@ -44,7 +47,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_apple"
+      "registry_name": "frog_apple",
+      "path": "~/Items"
     },
     {
       "name": "FrogSword",
@@ -53,7 +57,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_sword"
+      "registry_name": "frog_sword",
+      "path": "~/Tools"
     },
     {
       "name": "BetterFrogs",
@@ -62,7 +67,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "better_frogs"
+      "registry_name": "better_frogs",
+      "path": "~/Blocks"
     },
     {
       "name": "Frogswordrecipe",
@@ -71,7 +77,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frogswordrecipe"
+      "registry_name": "frogswordrecipe",
+      "path": "~/Recipes"
     },
     {
       "name": "Frogarmourrecipe",
@@ -80,7 +87,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frogarmourrecipe"
+      "registry_name": "frogarmourrecipe",
+      "path": "~/Recipes"
     },
     {
       "name": "Frogarmourrecipe2",
@@ -89,7 +97,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frogarmourrecipe_2"
+      "registry_name": "frogarmourrecipe_2",
+      "path": "~/Recipes"
     },
     {
       "name": "FrogArmour3",
@@ -98,7 +107,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_armour_3"
+      "registry_name": "frog_armour_3",
+      "path": "~/Recipes"
     },
     {
       "name": "FrogArmourRecipe4",
@@ -107,7 +117,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_armour_recipe_4"
+      "registry_name": "frog_armour_recipe_4",
+      "path": "~/Recipes"
     },
     {
       "name": "BetterBetterFrog",
@@ -116,7 +127,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "better_better_frog"
+      "registry_name": "better_better_frog",
+      "path": "~/Blocks"
     },
     {
       "name": "BetterBetterFrogRecipe",
@@ -125,7 +137,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "better_better_frog_recipe"
+      "registry_name": "better_better_frog_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "TheBestFrog",
@@ -134,7 +147,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_best_frog"
+      "registry_name": "the_best_frog",
+      "path": "~/Blocks"
     },
     {
       "name": "TheBestFrogRecipe",
@@ -143,7 +157,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_best_frog_recipe"
+      "registry_name": "the_best_frog_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "TheFrogSwordRecipe",
@@ -152,7 +167,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "the_frog_sword_recipe"
+      "registry_name": "the_frog_sword_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "FrogAppleRecipe",
@@ -161,7 +177,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_apple_recipe"
+      "registry_name": "frog_apple_recipe",
+      "path": "~/Recipes"
     },
     {
       "name": "FrogRibbet",
@@ -170,7 +187,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_ribbet"
+      "registry_name": "frog_ribbet",
+      "path": "~/Items"
     },
     {
       "name": "FrogEntity",
@@ -179,7 +197,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "frog_entity"
+      "registry_name": "frog_entity",
+      "path": "~/Entities"
     }
   ],
   "variable_elements": [],
@@ -252,7 +271,36 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Entities",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      },
+      {
+        "name": "Armour",
+        "children": []
+      },
+      {
+        "name": "Misc",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "angry_bird_dimention",
